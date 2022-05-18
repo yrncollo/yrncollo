@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrncollo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yrncollo&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@YrnCollo&theme=radical))](https://github.com/anuraghazra/github-readme-stats)

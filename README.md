@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm YrnCollo.</h2>
 
 ## Yrncollo <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo" /> </p>
-- 🔭 I’m currently working on **ALX**
+- 🔭 I’m currently studying at **ALX**
 - 🌱 I’m currently learning **C programming**
 - 💬 Ask me about **C**
 - 📫 How to reach me: [@YrnCollo](https://twitter.com/Yrn_Collo) on Twitter

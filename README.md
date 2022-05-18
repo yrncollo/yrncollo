@@ -1,7 +1,7 @@
 Hello there..
 
 **YrnCollo**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo" > </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo" /> </p>
 
 ## My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yrncollo&show_icons=true&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

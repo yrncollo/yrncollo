@@ -3,7 +3,7 @@
 ## Yrncollo <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo" /> </p>
 - 🔭 I’m currently working on **ALX**
 - 🌱 I’m currently learning **C programming**
-- 💬 Ask me about **C **
+- 💬 Ask me about **C**
 - 📫 How to reach me: [@YrnCollo](https://twitter.com/Yrn_Collo) on Twitter
 - ⚡ Fun fact: I live on the terminal
 

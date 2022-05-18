@@ -1,4 +1,4 @@
-Hello there..
+<h2 align="center">👋 Hello! I'm YrnCollo.</h2>
 
 ## Yrncollo <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo" /> </p>
 

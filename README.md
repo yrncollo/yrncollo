@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hello! I'm YrnCollo.</h2>
 
 ## Yrncollo <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo" /> </p>
+[![wakatime](https://wakatime.com/badge/user/29b6af22-e962-46be-ba76-90205ebd51af.svg)](https://wakatime.com/@29b6af22-e962-46be-ba76-90205ebd51af)
 - 🔭 I’m currently studying at **ALX**
 - 🌱 I’m currently learning **C programming**
 - 💬 Ask me about **C**

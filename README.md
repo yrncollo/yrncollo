@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm YrnCollo.</h2>
 
-## Yrncollo <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo"/> [![wakatime](https://wakatime.com/badge/user/29b6af22-e962-46be-ba76-90205ebd51af.svg)](https://wakatime.com/@29b6af22-e962-46be-ba76-90205ebd51af)</p>
+## Yrncollo <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo"/> [![wakatime](https://wakatime.com/badge/user/29b6af22-e962-46be-ba76-90205ebd51af.svg)](https://wakatime.com/@29b6af22-e962-46be-ba76-90205ebd51af) [![twitter](https://img.shields.io/twitter/follow/Yrn_Collo?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/Yrn_Collo)</p>
  
 - 🔭 I’m currently studying at **ALX**
 - 🌱 I’m currently learning **C programming**

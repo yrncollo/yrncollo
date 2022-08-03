@@ -16,8 +16,10 @@
 
 
 ## My stats
-[![Yrncollo GitHub stats](https://github-readme-stats.vercel.app/api?username=yrncollo&show_icons=true&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Yrncollo GitHub stats](https://github-readme-stats.vercel.app/api?username=yrncollo&show_icons=true&theme=react&hide_border=true&bg_color=1d2a3a&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrncollo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrncollo&show_icons=true&theme=react&hide_border=true&bg_color=1d2a3a)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Yrncollo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=yrncollo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Yrncollo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?&username=yrncollo&theme=react&hide_border=true&bg_color=1d2a3a)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yrncollo&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)

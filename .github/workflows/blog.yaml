@@ -15,5 +15,5 @@ jobs:
         with:
           comment_tag_name: "YRNCOLLO"
           feed_list: "https://yrncollo.github.io/"
-          commit_message: "Update yrncollo.github.com blog posts"
+          commit_message: "Update yrncollo.github.io blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}

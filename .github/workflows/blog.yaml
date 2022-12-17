@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YRNCOLLO"
-          feed_list: "https://yrncollo.github.io"
+          feed_list: "https://yrncollo.github.io/archives/"
           commit_message: "Update yrncollo.github.io blog posts"

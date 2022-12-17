@@ -16,6 +16,11 @@
 
 ## 📖 Latest Blog posts
 <!-- YRNCOLLO:START -->
+- [VIM](https://yrncollo.github.io/posts/Vim/)
+- [Meow](https://yrncollo.github.io/posts/Meow/)
+- [GIT](https://yrncollo.github.io/posts/git/)
+- [CyberTalents Bootcamp 2022](https://yrncollo.github.io/posts/CyberTalents_Bootcamp/)
+- [Reversing ELF](https://yrncollo.github.io/posts/Reverse_elf/)
 <!-- YRNCOLLO:END -->
 
 ## My stats⚡ 

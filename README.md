@@ -2,9 +2,9 @@
 
 ## Yrncollo <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo"/> [![wakatime](https://wakatime.com/badge/user/29b6af22-e962-46be-ba76-90205ebd51af.svg)](https://wakatime.com/@29b6af22-e962-46be-ba76-90205ebd51af) [![twitter](https://img.shields.io/twitter/follow/Yrn_Collo?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/Yrn_Collo)</p>
  
-- 🔭 I’m currently studying at **ALX**
-- 🌱 I’m currently learning **Python programming**
-- 💬 Ask me about **Python**
+- 🔭 I’m currently studying
+- 🌱 I’m currently learning **C++**
+- 💬 Ask me about **C++**
 - 📫 How to reach me: [@YrnCollo](https://twitter.com/Yrn_Collo) on Twitter
 - ⚡ Fun fact: I live on the terminal
 

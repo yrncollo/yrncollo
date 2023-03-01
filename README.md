@@ -16,11 +16,11 @@
 
 ## 📖 Latest Blog posts
 <!-- YRNCOLLO:START -->
-- [You Can&#39;t see me](https://yrncollo.github.io/posts/you-cant-c-me/)
-- [How to stay safe online](https://yrncollo.github.io/posts/online-safety/)
-- [VIM](https://yrncollo.github.io/posts/Vim/)
-- [Meow](https://yrncollo.github.io/posts/Meow/)
-- [GIT](https://yrncollo.github.io/posts/git/)
+- [You Can&#39;t see me](https://yrncollo.com/posts/you-cant-c-me/)
+- [How to stay safe online](https://yrncollo.com/posts/online-safety/)
+- [VIM](https://yrncollo.com/posts/Vim/)
+- [Meow](https://yrncollo.com/posts/Meow/)
+- [GIT](https://yrncollo.com/posts/git/)
 <!-- YRNCOLLO:END -->
 
 ## My stats⚡ 

@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm YrnCollo.</h2>
 
-## Yrncollo <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo"/> ![Twitter Follow](https://img.shields.io/twitter/follow/Yrn_Collo?color=Yellow&label=%40YrnCollo&logoColor=blueviolet&style=social) [![wakatime](https://wakatime.com/badge/user/29b6af22-e962-46be-ba76-90205ebd51af.svg)](https://wakatime.com/@29b6af22-e962-46be-ba76-90205ebd51af) ![Discord](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)</p>
+## Yrncollo <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrncollo" alt="yrncollo"/> [![Twitter Follow](https://img.shields.io/twitter/follow/Yrn_Collo?color=Yellow&label=%40YrnCollo&logoColor=blueviolet&style=social)](https://twitter.com/Yrn_Collo) [![wakatime](https://wakatime.com/badge/user/29b6af22-e962-46be-ba76-90205ebd51af.svg)](https://wakatime.com/@29b6af22-e962-46be-ba76-90205ebd51af) [![Discord](https://img.shields.io/discord/950481728068263976?color=blueviolet&logo=Discord&style=plastic)](https://discord.gg/4rYWA4HbJd)</p>
  
 - 🔭 I’m currently studying
 - 🌱 I’m currently learning **C++**

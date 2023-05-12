@@ -16,11 +16,11 @@
 
 ## 📖 Latest Blog posts
 <!-- YRNCOLLO:START -->
+- [LazyAdmin](https://yrncollo.com/posts/LazyAdmin/)
 - [Tomghost](https://yrncollo.com/posts/tomghost/)
 - [You Can&#39;t see me](https://yrncollo.com/posts/you-cant-c-me/)
 - [How to stay safe online](https://yrncollo.com/posts/online-safety/)
 - [VIM](https://yrncollo.com/posts/Vim/)
-- [Meow](https://yrncollo.com/posts/Meow/)
 <!-- YRNCOLLO:END -->
 
 ## My stats⚡ 

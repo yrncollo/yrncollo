@@ -28,11 +28,11 @@ Here are some few rust projects I've been working on:
 I occasionally write about Rust, CyberSecurity and related topics. Here are some of my recent blog posts:
 
 <!-- YRNCOLLO:START -->
-- [Rootme](https://yrncollo.com/posts/RootMe/)
-- [LazyAdmin](https://yrncollo.com/posts/LazyAdmin/)
-- [Tomghost](https://yrncollo.com/posts/tomghost/)
-- [You Can&#39;t see me](https://yrncollo.com/posts/you-cant-c-me/)
-- [How to stay safe online](https://yrncollo.com/posts/online-safety/)
+- [Rootme](https://yrncollo.me/posts/RootMe/)
+- [LazyAdmin](https://yrncollo.me/posts/LazyAdmin/)
+- [Tomghost](https://yrncollo.me/posts/tomghost/)
+- [You Can&#39;t see me](https://yrncollo.me/posts/you-cant-c-me/)
+- [How to stay safe online](https://yrncollo.me/posts/online-safety/)
 <!-- YRNCOLLO:END -->
 
 ## My stats⚡ 

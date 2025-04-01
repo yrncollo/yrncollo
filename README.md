@@ -28,11 +28,11 @@ Here are some few rust projects I've been working on:
 I occasionally write about Rust, CyberSecurity and related topics. Here are some of my recent blog posts:
 
 <!-- YRNCOLLO:START -->
+- [My Journey into Tech](https://yrncollo.me/posts/my-tech-journey/)
 - [Building E-commerce with Rust - Backend &lpar;part 1&rpar;](https://yrncollo.me/posts/ecommerce/)
 - [Rootme](https://yrncollo.me/posts/RootMe/)
 - [LazyAdmin](https://yrncollo.me/posts/LazyAdmin/)
 - [Tomghost](https://yrncollo.me/posts/tomghost/)
-- [You Can&#39;t see me](https://yrncollo.me/posts/you-cant-c-me/)
 <!-- YRNCOLLO:END -->
 
 ## My stats⚡ 
